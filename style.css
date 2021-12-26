@@ -1,0 +1,18 @@
+h1{
+    color: darkseagreen;
+    font-family: Arial;
+}
+
+p{
+    color: teal;
+    font-family: arial;
+    font-size: 200%;
+    font-weight: bolder;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: palegoldenrod;
+    
+}
